@@ -4,3 +4,5 @@ conversion function needed:
 - gallons to liters
 - hours to minutes
 - feet to inches
+- USD to Euros
+

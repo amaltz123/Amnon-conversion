@@ -1,0 +1,5 @@
+conversion function needed:
+
+- dollars to cents
+- gallons to liters
+- hours to minutes
